@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Dave Chiu, @davechiu
+    http://davechiu.cc/
+    Brookline, MA, USA
+
+# THANKS
+
+    You
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
+    Grunt, Bower, Yeoman, Assemble

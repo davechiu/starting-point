@@ -1,0 +1,11 @@
+{
+  "name": "starting-point",
+  "version": "0.0.0",
+  "dependencies": {
+    "sass-bootstrap": "~3.0.0",
+    "normalize-css": "~2.1.3",
+    "modernizr": "~2.6.2",
+    "jquery": "~2.0.3"
+  },
+  "devDependencies": {}
+}
